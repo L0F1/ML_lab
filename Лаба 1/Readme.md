@@ -3,7 +3,7 @@
 
 ## Задача регрессии
 
-Задача на kaggle: https://www.kaggle.com/c/bike-sharing-demand
+Задача на kaggle: https://www.kaggle.com/c/bike-sharing-demand.
 По историческим данным о прокате велосипедов и погодным условиям необходимо оценить спрос на прокат велосипедов.
 
 Признаки:
